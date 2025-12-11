@@ -12,7 +12,7 @@
 ## Subtítulo H2
 ###### Encabezado H6
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-[Imagen random](https://i.pinimg.com/474x/78/fa/8c/78fa8cd5929a91ec84023a623359ea88.jpg)
+![Octocat clásico](https://octodex.github.com/images/neurocats_A.png)
 </header>
 
 <!--
@@ -22,7 +22,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+![Imagen random](https://octodex.github.com/images/neurocats_FULL.png)
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
