@@ -8,7 +8,9 @@
 -->
 
 # Communicate using Markdown
-
+# Mi título H1
+## Subtítulo H2
+###### Encabezado H6
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
