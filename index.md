@@ -1,1 +1,2 @@
-! [Clásico Octocat](https://octodex.github.com/images/neurocats_A.png)
+
+![Octocat clásico](https://octodex.github.com/images/neurocats_A.png)
